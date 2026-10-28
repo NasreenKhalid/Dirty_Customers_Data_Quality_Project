@@ -152,4 +152,4 @@ Python, pandas, regular expressions.
 
 ## Author
 
-**Nasreen Khalid**: [LinkedIn profile link]
+**Nasreen Khalid**: LinkedIn profile link](https://www.linkedin.com/in/nasreen-shehzad-aa098425/)
